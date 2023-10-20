@@ -1,4 +1,5 @@
 # maaktnietuit
+<<<<<<< HEAD
 
 ## Tykoro
 
@@ -28,3 +29,6 @@ Antwoord
 
 
 Unity
+=======
+edit
+>>>>>>> e1624cc441422d6c8dac5d3f8fcd3877831569ab
