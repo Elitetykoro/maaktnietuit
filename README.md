@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # maaktnietuit
-<<<<<<< HEAD
+
 
 ## Tykoro
 
@@ -30,10 +30,10 @@ Antwoord
 
 
 Unity
-=======
+
 edit
->>>>>>> e1624cc441422d6c8dac5d3f8fcd3877831569ab
-=======
+
+
 # skils evaluatie
 
 ## Elliot
@@ -48,4 +48,3 @@ Niks alles wat ik heb geleerd is nieuw voor me.
 Waarvan zou ik nog meer willen weten?
 
 Weet ik nog niet.
->>>>>>> edit
